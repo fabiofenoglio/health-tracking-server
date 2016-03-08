@@ -1,5 +1,5 @@
 # health-tracking-server
-Track what you eat, your weight, your activities and calculate your best regimes.
+Track what you eat, your weight, your activities and calculate your best eating schedule.
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/6.jpg "screenshot")
 
@@ -47,9 +47,9 @@ And you will gain access to useful statistics about your eating habits
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/2.jpg "screenshot")
 
 
-### Eating regimes
+### Eating plan
 
-Let the app guide you in keeping a balanced diet. Create your eating regimes and the server will help you stick to the plan!
+Let the app guide you in keeping a balanced diet. Create your eating plans and the server will help you stick to the plan!
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/3.jpg "screenshot")
 
