@@ -1,0 +1,1 @@
+alert("Parametro = " + "<?php echo F_Snippet::getParam("n", "non definito");  ?>");
