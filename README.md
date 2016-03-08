@@ -10,13 +10,15 @@ Track what you eat, your weight, your activities and calculate your best regimes
   No need to log things in multiple places!
   Your daily activities (step by step) logged on Google Fit automatically get synced as well as your weight records.
 
-Just let the server access your Google Fit data:
+Just let the server access your Google Fit data
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/1.jpg "screenshot")
 
-View your recent activities or manually add new ones:
+
+View your recent activities or manually add new ones
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/4.jpg "screenshot")
+
 
 Get weight tracking
 
@@ -32,15 +34,18 @@ You can get info about foods registered by other users if explicitly set as publ
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/8.jpg "screenshot")
 
+
 Just tell the app what you eat with a simple, user-friendly interface
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/5.jpg "screenshot")
+
 
 And you will gain access to useful statistics about your eating habits
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/6.jpg "screenshot")
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/2.jpg "screenshot")
+
 
 ### Eating regimes
 
@@ -49,6 +54,7 @@ Let the app guide you in keeping a balanced diet. Create your eating regimes and
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/3.jpg "screenshot")
 
 ![screenshot](https://raw.githubusercontent.com/fabiofenoglio/health-tracking-server/master/gallery/7.jpg "screenshot")
+
 
 ### Info
 
